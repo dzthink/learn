@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "id": "example-topic",
+      "path": "content/articles/2025-01-25-example-topic.md",
+      "status": "draft",
+      "platforms": {
+        "wechat": {
+          "enabled": true,
+          "url": ""
+        },
+        "bilibili": {
+          "enabled": true,
+          "url": ""
+        },
+        "youtube": {
+          "enabled": true,
+          "url": ""
+        },
+        "website": {
+          "enabled": true,
+          "url": ""
+        }
+      }
+    }
+  ]
+}

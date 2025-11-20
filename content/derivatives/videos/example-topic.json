@@ -1,0 +1,14 @@
+{
+  "id": "example-topic",
+  "title": "RLHF 奖励模型从直觉到实现",
+  "scenes": [
+    {
+      "index": 1,
+      "desc": "开场，提出问题：为什么需要 RLHF？"
+    },
+    {
+      "index": 2,
+      "desc": "展示 RLHF 整体流程示意。"
+    }
+  ]
+}
